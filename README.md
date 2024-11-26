@@ -23,7 +23,7 @@ Future Features 💡: Includes placeholders for Wishlist, Search & Filter, User 
 Tool: Figma
 
 Prototype Link: View the Prototype
-(Insert the link to your Figma project here)
+(https://www.figma.com/proto/0rQCb4c0yYcig6IkVUhFpm/CAT-1-%26-CAT-2?node-id=64-2&t=zwdkWprdoTpWOv4b-1)
 
 
 📹 Video Demonstration
