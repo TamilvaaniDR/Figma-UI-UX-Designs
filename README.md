@@ -30,4 +30,4 @@ Prototype Link: View the Prototype
 
 A walkthrough video of the design and functionality of the BookNest app is available here:
 Video Link
-(Insert the video link here)
+file:///C:/Users/drtam/OneDrive/Pictures/BookNest.mp4
