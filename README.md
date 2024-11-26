@@ -20,7 +20,7 @@ Future Features 💡: Includes placeholders for Wishlist, Search & Filter, User 
 
 🎨 Design Details
 
-Tool: Figma
+Tool: Figma 
 
 Prototype Link: View the Prototype
 (https://www.figma.com/proto/0rQCb4c0yYcig6IkVUhFpm/CAT-1-%26-CAT-2?node-id=64-2&t=zwdkWprdoTpWOv4b-1)
@@ -30,3 +30,4 @@ Prototype Link: View the Prototype
 
 A walkthrough video of the design and functionality of the BookNest app is available here:
 Video Link
+![Demo Video](./BookNest.mp4)
