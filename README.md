@@ -32,6 +32,8 @@ A walkthrough video of the design and functionality of the BookNest app is avail
 Video Link
 ![Demo Video](./BookNest.mp4)
 
+BookNest UI - Full Design View 🎨
+
 ![Overallview](https://github.com/user-attachments/assets/fc36b0e7-857e-4457-9f4d-96d1d08ec9ef)
 
 
